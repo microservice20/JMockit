@@ -3,15 +3,10 @@ package Caclulator.Caclulator;
 import static org.junit.Assert.assertTrue;
 
 import org.junit.jupiter.api.DisplayName;
-import org.junit.jupiter.api.Test;
 
 import mockit.Delegate;
 import mockit.Expectations;
-import mockit.Injectable;
-import mockit.Mock;
-import mockit.MockUp;
 import mockit.Mocked;
-import mockit.Tested;
 
 class CalCulatorTest {
 
